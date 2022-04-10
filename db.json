@@ -3,11 +3,8 @@
         {
             "id": 1,
             "special_notes": "Award Winning",
-            "slug": "cartesian-2020-sauvignon-blanc-california",
             "name": "Cartesian 2020 Sauvignon Blanc California",
             "tag_line": "A Sauvignon Blanc filled with wonder, mouthwatering acidity, and a touch of minerality",
-            "tasting_notes": "Subtle notes of lemon-lime citrus and flavors of tart gooseberry meld with wet stone minerality. A hint of grassiness hits the palate with every sip of this wine and combines with radiant acidity that shines, making the tastebuds water.",
-            "sales_copy": "\u003cb\u003eA Sauvignon Blanc filled with wonder, mouthwatering acidity, and a touch of minerality.\u003c/b\u003e California’s winegrowing regions are famous for a reason—with a climate that offers a near-perfect environment for grape growing, with dry heat and sunshiny days mitigated by breezes and fog that comes off the neighboring Pacific Ocean. There are distinct soils in each subregion across the state, and the vineyards planted in the deep valleys and on the rolling hills produce some of the world’s most renowned wines. Varietals of all kinds thrive in each of the unique subregions, but those that require little maintenance and love the bright sunshine like Sauvignon Blanc do exceptionally well. Our winemakers chose to make this 2020 Cartesian Sauvignon Blanc in a much more herbaceous and vegetal New Zealand style versus its sweet and citrus fruit-forward counterparts. Still, it is absolutely delightful, even with a unique palate.",
             "vintage": "2020",
             "origin": "California",
             "fanciful_varietal": "Sauvignon Blanc",
@@ -20,33 +17,15 @@
             },
             "pairings": "Summer Salad, Tuna Steak, Fried Calamari",
             "color": "White",
-            "description": "\u003cp\u003eCalifornia’s winegrowing regions are famous for a reason—with a climate that offers a near-perfect environment for grape growing, with dry heat and sunshiny days mitigated by breezes and fog that comes off the neighboring Pacific Ocean. There are distinct soils in each subregion across the state, and the vineyards planted in the deep valleys and on the rolling hills produce some of the world’s most renowned wines. Varietals of all kinds thrive in each of the unique subregions, but those that require little maintenance and love the bright sunshine like Sauvignon Blanc do exceptionally well. Our winemakers chose to make this 2020 Cartesian Sauvignon Blanc in a much more herbaceous and vegetal New Zealand style versus its sweet and citrus fruit-forward counterparts. Still, it is absolutely delightful, even with a unique palate. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "California’s winegrowing regions are famous for a reason—with a climate that offers a near-perfect environment for grape growing, with dry heat and sunshiny days mitigated by breezes and fog that comes off the neighboring Pacific Ocean. There are distinct soils in each subregion across the state, and the vineyards planted in the deep valleys and on the rolling hills produce some of the world’s most renowned wines. Varietals of all kinds thrive in each of the unique subregions, but those that require little maintenance and love the bright sunshine like Sauvignon Blanc do exceptionally well. Our winemakers chose to make this 2020 Cartesian Sauvignon Blanc in a much more herbaceous and vegetal New Zealand style versus its sweet and citrus fruit-forward counterparts. Still, it is absolutely delightful, even with a unique palate. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "California",
-                "description": "California is one of the most diverse winegrowing regions in the world. Spanning 850 miles along North America's west coast—and inland across mountains and valleys—California's American Viticultural Areas (AVAs) cover a dizzying array of terroir. The cold, deep waters of the Pacific Ocean play a major role in cooling California's vineyards, sending fog and chilly air up to 100 miles inland. This tempers the daytime heat and allows grapes to ripen slowly but fully. Cooler-climate grape varieties thrive closest to the sea, while further inland, bigger, bolder wines prevail.",
-                "image": "https://images-dev.firstleaf.club/taxons/1819/normal/California.png?1616010998"
-            },
             "images": "https://images-dev.firstleaf.club/images/4112/desktop/Cartesian_20_Sauv_Blanc_P2CAR20SVB0521-FLE.png?1619038336",
             "ratings_pct": 4.42,
-            "award_product": [
-                "Silver Medal, 2021 Critics Challenge International Wine \u0026 Spirits Competition"
-            ],
-            "brand": {
-                "name": "Cartesian",
-                "sales_copy": "French philosopher René Descartes advocated for logic and referencing the past to progress the future. Like Descartes, our winemakers at Cartesian are firm believers in learning from their predecessors. We push, experiment, and continually ask questions in the spirit of making our wines better. Versatile and worthy of examination, Cartesian wines allow you to deliberate life’s bigger questions rather than ponder your wine selection."
-            },
-            "display_name": "Cartesian",
-            "sku": "JHF4978AHDL"
+            "display_name": "Cartesian"
         },
         {
             "id": 2,
             "special_notes": "None",
-            "slug": "meiggs-pardon-2020-sauvignon-blanc-north-coast-california",
             "name": "Meiggs' Pardon 2020 Sauvignon Blanc North Coast, California",
             "tag_line": "A taste of the Old World from New World vineyards",
-            "tasting_notes": "Our Sauvignon Blanc is light and lively. Energetic notes of lemon and lime create an exciting aromatic introduction. This wine’s profile may be dry, but ripe melon and zesty grapefruit ensure that it still delivers a generous amount of juicy fruit flavor.",
-            "sales_copy": "\u003cb\u003eA taste of the Old World from New World vineyards.\u003c/b\u003e Spirited citrus and dynamic acidity serve as the backbone of our Meiggs’ Pardon Sauvignon Blanc. Since the 1880s, when Sauvignon Blanc was first planted in the soils of California, it has been one of the state’s most popular grapes. Though our wine is from the New World, its lean styling is a nod to the celebrated white wines of Old World Bordeaux. California’s North Coast mimics the maritime climate of this grape variety’s French homeland with moderate temperatures during the growing season and occasional rainfall. These cool conditions extend the ripening period and push harvest back well into autumn. Without the threat of intense heat and overripening, this fruit can spend ample time on the vine, slowly developing its complex aromas and flavors. Vibrant acid and intense fruit flavors make this wine extremely food-friendly. Serve each glass well chilled alongside creamy cheeses or fatty fish, and make a toast to history.",
             "vintage": "2020",
             "origin": "North Coast, California",
             "fanciful_varietal": "Sauvignon Blanc",
@@ -55,37 +34,17 @@
             "display_msrp": "$27.60",
             "display_price": "$23.00",
             "award_highlights": null,
-            "award_brand": [
-                "Gold Medal, 2018 Denver International Wine Competition",
-                "Silver Medal, 2018 Global Wine Awards",
-                "Bronze Medal, 2018 International Women's Wine Competition"
-            ],
             "pairings": "Salty Cheese, Grilled Fish, Fried Calamari",
             "color": "White",
-            "description": "\u003cp\u003eSpirited citrus and dynamic acidity serve as the backbone of our Meiggs’ Pardon Sauvignon Blanc. Since the 1880s, when Sauvignon Blanc was first planted in the soils of California, it has been one of the state’s most popular grapes. Though our wine is from the New World, its lean styling is a nod to the celebrated white wines of Old World Bordeaux. California’s North Coast mimics the maritime climate of this grape variety’s French homeland with moderate temperatures during the growing season and occasional rainfall. These cool conditions extend the ripening period and push harvest back well into autumn. Without the threat of intense heat and overripening, this fruit can spend ample time on the vine, slowly developing its complex aromas and flavors. Vibrant acid and intense fruit flavors make this wine extremely food-friendly. Serve each glass well chilled alongside creamy cheeses or fatty fish, and make a toast to history. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "Spirited citrus and dynamic acidity serve as the backbone of our Meiggs’ Pardon Sauvignon Blanc. Since the 1880s, when Sauvignon Blanc was first planted in the soils of California, it has been one of the state’s most popular grapes. Though our wine is from the New World, its lean styling is a nod to the celebrated white wines of Old World Bordeaux. California’s North Coast mimics the maritime climate of this grape variety’s French homeland with moderate temperatures during the growing season and occasional rainfall. These cool conditions extend the ripening period and push harvest back well into autumn. Without the threat of intense heat and overripening, this fruit can spend ample time on the vine, slowly developing its complex aromas and flavors. Vibrant acid and intense fruit flavors make this wine extremely food-friendly. Serve each glass well chilled alongside creamy cheeses or fatty fish, and make a toast to history. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "North Coast",
-                "description": "The North Coast AVA is a vast \"super region\" covering three million acres of prime land north of San Francisco. It encompasses the famous wine counties of Napa, Sonoma and Mendocino, as well as Lake, Marin and Solano. While most wines from these counties are made under one of the prestigious regional AVAs, winemakers can also blend grapes from different counties. In this way, they create wines that show off the quality of the entire region and are not limited to specific terroirs. Common varieties include Cabernet Sauvignon, Chardonnay, Pinot Noir, Merlot, Sauvignon Blanc and Zinfandel.",
-                "image": "https://images-dev.firstleaf.club/taxons/1851/normal/California_North_Coast.png?1616011073"
-            },
             "images":"https://images-dev.firstleaf.club/images/5534/desktop/Meiggs'_Pardon_20_Sauvignon_Blanc_P2MEI20SVB1021-FLE.png?1632187363",
             "ratings_pct": 4.17,
-            "brand": {
-                "name": "Meiggs' Pardon",
-                "sales_copy": "Californian history is rich with early entrepreneurs like Henry Meiggs—a man who found success, then pushed a bit too far but, at the end of the day, made good on his debts. Meiggs Pardon celebrates perseverance and triumph—keeping a compass rose squarely on right and therefore justly rewarded."
-            },
-            "display_name": "Meiggs' Pardon",
-            "sku": "JHF6347AHDL"
+            "display_name": "Meiggs' Pardon"
         },
         {
             "id": 3,
             "special_notes": "Award Winning",
-            "slug": "miguel-aime-pouget-2020-limited-release-malbec-mendoza-argentina",
             "name": "Miguel Aime Pouget 2020 Limited Release Malbec Mendoza, Argentina",
             "tag_line": "The newest vintage from “Best of Class” Miguel Aime Pouget",
-            "tasting_notes": "Aromas of black pepper and molasses join enticing scents of pine resin. Ripe black cherry, plum, and blackberry are coated in flavors of sweet balsamic reduction on a plush, bold palate showcasing subtle acidity, structured tannins, and delectable sweetness.",
-            "sales_copy": "\u003cb\u003eThe newest vintage from “Best of Class” Miguel Aime Pouget.\u003c/b\u003e The new vintage of our 95 point Miguel Aime Pouget is everything a classic Argentinian Malbec lover looks for. Peppery aromatics introduce a velvety palate where savory flavors accompany concentrated dark fruit. With each sip, it becomes clear why today this native French grape is more often associated with South American soils than those of its European homeland. Our Argentinian winemaking partners have been making wine for decades and are experts in their craft. With over 1,700 acres of plantings in Mendoza, their vineyards range from 2,500 to nearly 4,000 feet above sea level. These extreme conditions forge the uniqueness of Argentinian terroir, resulting in truthful expressions of the land and vintage. We invite you to taste the impeccable balance and rich varietal flavor these mountainous conditions create, and we know this is a wine you’ll be proud to share.",
             "vintage": "2020",
             "origin": "Mendoza, Argentina",
             "fanciful_varietal": "Limited Release Malbec",
@@ -98,34 +57,15 @@
             },
             "pairings": "Rack of Lamb, Soups and Bisques, Braised Beef",
             "color": "Red",
-            "description": "\u003cp\u003eThe new vintage of our 95 point Miguel Aime Pouget is everything a classic Argentinian Malbec lover looks for. Peppery aromatics introduce a velvety palate where savory flavors accompany concentrated dark fruit. With each sip, it becomes clear why today this native French grape is more often associated with South American soils than those of its European homeland. Our Argentinian winemaking partners have been making wine for decades and are experts in their craft. With over 1,700 acres of plantings in Mendoza, their vineyards range from 2,500 to nearly 4,000 feet above sea level. These extreme conditions forge the uniqueness of Argentinian terroir, resulting in truthful expressions of the land and vintage. We invite you to taste the impeccable balance and rich varietal flavor these mountainous conditions create, and we know this is a wine you’ll be proud to share. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "The new vintage of our 95 point Miguel Aime Pouget is everything a classic Argentinian Malbec lover looks for. Peppery aromatics introduce a velvety palate where savory flavors accompany concentrated dark fruit. With each sip, it becomes clear why today this native French grape is more often associated with South American soils than those of its European homeland. Our Argentinian winemaking partners have been making wine for decades and are experts in their craft. With over 1,700 acres of plantings in Mendoza, their vineyards range from 2,500 to nearly 4,000 feet above sea level. These extreme conditions forge the uniqueness of Argentinian terroir, resulting in truthful expressions of the land and vintage. We invite you to taste the impeccable balance and rich varietal flavor these mountainous conditions create, and we know this is a wine you’ll be proud to share. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "Mendoza",
-                "description": "Mendoza is the heart of Argentinian wine production. It was here where a previously little-known French grape variety called Malbec became a global superstar. With its extreme altitudes and Andean climate, Mendoza nurtures its vineyards in dramatic sun-drenched plateaus set against snow-capped peaks. At these elevations, the intense UV light ripens grapes in a unique way, working with the cold mountain air to create gloriously supple and expressive wines with bold yet brightly aromatic fruit. Mendoza's high-quality varietals from Bonarda, Syrah and Cabernet Sauvignon grapes are also notable, as are its fine Torrontés, Sauvignon Blanc and Pinot Noir from sub-regions such as Maipú, Luján de Cuyo and the Uco Valley.",
-                "image": "https://images-dev.firstleaf.club/taxons/1837/normal/Argentina_Mendoza.png?1616006256"
-            },
             "images":"https://images-dev.firstleaf.club/images/5824/desktop/Miguel_Aime_Pouget_20_Malbec_P2MIG20MLB1221-FLE.png?1636657241",
             "ratings_pct": 4.43,
-            "award_product": [
-                "Silver Medal, 2022 International Eastern Wine Competition",
-                "Silver Medal, 2022 San Diego International Wine \u0026 Spirits Challenge"
-            ],
-            "brand": {
-                "name": "Miguel Aime Pouget",
-                "sales_copy": "Countless individuals have altered enological history. While many of their tales go untold, their impacts continue to shape the story of wine. We aim to celebrate the spirit of research and discovery through our wines by recognizing one of the wine world's lesser-known influential people. Miguel Aime Pouget was a French explorer who brought the first Malbec rootstock to Argentina from its French homeland. Today Malbec and Argentina are synonymous with one another, and they offer some of the best examples of this timeless varietal. Let's raise our glasses and \"Salud\" to Miguel and the spirit of exploration. "
-            },
-            "display_name": "Miguel Aime Pouget",
-            "sku": "JHF8896AHDL"
+            "display_name": "Miguel Aime Pouget"
         },
         {
             "id": 4,
             "special_notes": "Award Winning",
-            "slug": "posted-accord-2020-cabernet-sauvignon-south-africa",
             "name": "Posted Accord 2020 Cabernet Sauvignon South Africa",
             "tag_line": "Delicious and distinctive, this Cab calls out to the adventurous drinker",
-            "tasting_notes": "This wine stands out with refreshing aromatics of dried herbs and leather. On the soft, round palate, you will encounter flavors of sweet balsamic reduction, soy sauce, and dark chocolate. This Cab is for the explorative drinker who yearns to discover the unique beauty South Africa’s wines can offer.",
-            "sales_copy": "\u003cb\u003eDelicious and distinctive, this Cab calls out to the adventurous drinker.\u003c/b\u003e Although this Cabernet comes from the New World vineyards of South Africa, its characteristics lean more toward the Old World styling of Bordeaux's Left Bank. Our 2020 Posted Accord Cabernet Sauvignon is not your typical Cab; its flavors fall into the realm of savory and spice without losing its enticing sweetness. Rather than focusing on intense ripe fruit, this Cab offers complexity through secondary characteristics brought forth by skillful winemaking. Fermentation takes place in open concrete tanks to preserve varietal character. During fermentation, the winemakers regulate the temperature and do frequent punch downs of the hard cap to increase flavor integration and texture. Once fermentation is complete, the wine is transferred to 300-liter French oak barrels, where it is left to mature for a minimum of 12 months. Posted Accord believes in a harmonious union that blends excellence and imagination, and we believe this Cabernet is just that.",
             "vintage": "2020",
             "origin": "South Africa",
             "fanciful_varietal": "Cabernet Sauvignon",
@@ -138,25 +78,9 @@
             },
             "pairings": "Wild Game, Roasted Nuts, Potato Soup",
             "color": "Red",
-            "description": "\u003cp\u003eAlthough this Cabernet comes from the New World vineyards of South Africa, its characteristics lean more toward the Old World styling of Bordeaux's Left Bank. Our 2020 Posted Accord Cabernet Sauvignon is not your typical Cab; its flavors fall into the realm of savory and spice without losing its enticing sweetness. Rather than focusing on intense ripe fruit, this Cab offers complexity through secondary characteristics brought forth by skillful winemaking. Fermentation takes place in open concrete tanks to preserve varietal character. During fermentation, the winemakers regulate the temperature and do frequent punch downs of the hard cap to increase flavor integration and texture. Once fermentation is complete, the wine is transferred to 300-liter French oak barrels, where it is left to mature for a minimum of 12 months. Posted Accord believes in a harmonious union that blends excellence and imagination, and we believe this Cabernet is just that. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "Although this Cabernet comes from the New World vineyards of South Africa, its characteristics lean more toward the Old World styling of Bordeaux's Left Bank. Our 2020 Posted Accord Cabernet Sauvignon is not your typical Cab; its flavors fall into the realm of savory and spice without losing its enticing sweetness. Rather than focusing on intense ripe fruit, this Cab offers complexity through secondary characteristics brought forth by skillful winemaking. Fermentation takes place in open concrete tanks to preserve varietal character. During fermentation, the winemakers regulate the temperature and do frequent punch downs of the hard cap to increase flavor integration and texture. Once fermentation is complete, the wine is transferred to 300-liter French oak barrels, where it is left to mature for a minimum of 12 months. Posted Accord believes in a harmonious union that blends excellence and imagination, and we believe this Cabernet is just that. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "South Africa",
-                "description": "With its mountainous, maritime-influenced winegrowing regions, South Africa produces top-quality Cabernet Sauvignon and Chenin Blanc and premium Syrah, Pinotage, Chardonnay and Sauvignon Blanc. The Dutch brought vines here back in the 1600s to satiate their thirsty sailors en route to India, but they probably never imagined just how important to the wine world South Africa would one day become. Indeed, it took centuries for South Africa to discover its full potential. Most of the country's winegrowing areas thrive in the southwest, known as the Western Cape. Its most famous regions are an easy drive from Cape Town and include Stellenbosch, Swartland, Breedekloof and Franschhoek. ",
-                "image": "https://images-dev.firstleaf.club/taxons/1816/normal/South_Africa.png?1616010563"
-            },
             "images": "https://images-dev.firstleaf.club/images/5380/desktop/Posted_Accord_20_Cabernet_Sauvignon_P2POS20CAS0921-FLE.png?1630611318",
             "ratings_pct": 4.65,
-            "award_product": [
-                "Silver Medal, 2021 San Francisco International Wine Competition",
-                "86 Points, 2022 Wine \u0026 Spirits Magazine"
-            ],
-            "brand": {
-                "name": "Posted Accord",
-                "sales_copy": "When others only see differences, we see commonalities. At Posted Accord, we declare that bringing these two sides together in harmonious union sparks quality and originality in a way one cannot possibly forget. To find success in South African vineyards, winemakers must form a truce with an occasionally hostile environment. Only by embracing this land for all it is may one unlock the beauty it may produce. Our wines find common ground between man and country, with each bottle being both strikingly unctuous and undeniably South African."
-            },
-            "display_name": "Posted Accord",
-            "sku": "KITG4924ASD"
+            "display_name": "Posted Accord"
         },
         {
             "id": 5,
@@ -164,8 +88,6 @@
             "slug": "winter-fox-2018-syrah-california",
             "name": "Winter Fox 2018 Syrah California",
             "tag_line": "Delectably red fruited and refreshingly wild",
-            "tasting_notes": "Our Syrah remains textural and structured while its flavors are playful and dynamic. Aromas of white pepper, cedar, and maple bacon draw you into a den of fruit flavors where cranberries and fig mingle on the palate. Striking tannins and provoking acidity make this a perfect pairing with rich cuisines.",
-            "sales_copy": "\u003cb\u003eDelectably red fruited and refreshingly wild.\u003c/b\u003e Resembling the way the bright coat of the American red fox stands out against the duller shades of its wintry forest home, our Syrah displays bright red fruit flavors that contrast savory notes of cedar and maple. This wine is food-friendly and exciting, with prominent tannins and mouthwatering acidity. After spending the winter months in dormancy, Syrah vines in California begin to wake in the latter half of March. From then on, the warm California sun supports the development of these vines throughout the state's long, dry growing season. With consistent access to sunlight and nutrients and the influence of the Pacific Ocean, this fruit ripens to peak levels of flavor while maintaining Syrah's naturally high levels of acidity. This wine is a delicious encounter of captivating textures and delightful flavor. Get in touch with your wild side and pair a glass with a wide variety of meals ranging from carnivorous to vegetarian.",
             "vintage": "2018",
             "origin": "California",
             "fanciful_varietal": "Syrah",
@@ -179,21 +101,9 @@
             ],
             "pairings": "Roasted Vegetables, Wild Game, Grilled Meats",
             "color": "Red",
-            "description": "\u003cp\u003eResembling the way the bright coat of the American red fox stands out against the duller shades of its wintry forest home, our Syrah displays bright red fruit flavors that contrast savory notes of cedar and maple. This wine is food-friendly and exciting, with prominent tannins and mouthwatering acidity. After spending the winter months in dormancy, Syrah vines in California begin to wake in the latter half of March. From then on, the warm California sun supports the development of these vines throughout the state's long, dry growing season. With consistent access to sunlight and nutrients and the influence of the Pacific Ocean, this fruit ripens to peak levels of flavor while maintaining Syrah's naturally high levels of acidity. This wine is a delicious encounter of captivating textures and delightful flavor. Get in touch with your wild side and pair a glass with a wide variety of meals ranging from carnivorous to vegetarian. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "Resembling the way the bright coat of the American red fox stands out against the duller shades of its wintry forest home, our Syrah displays bright red fruit flavors that contrast savory notes of cedar and maple. This wine is food-friendly and exciting, with prominent tannins and mouthwatering acidity. After spending the winter months in dormancy, Syrah vines in California begin to wake in the latter half of March. From then on, the warm California sun supports the development of these vines throughout the state's long, dry growing season. With consistent access to sunlight and nutrients and the influence of the Pacific Ocean, this fruit ripens to peak levels of flavor while maintaining Syrah's naturally high levels of acidity. This wine is a delicious encounter of captivating textures and delightful flavor. Get in touch with your wild side and pair a glass with a wide variety of meals ranging from carnivorous to vegetarian. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "California",
-                "description": "California is one of the most diverse winegrowing regions in the world. Spanning 850 miles along North America's west coast—and inland across mountains and valleys—California's American Viticultural Areas (AVAs) cover a dizzying array of terroir. The cold, deep waters of the Pacific Ocean play a major role in cooling California's vineyards, sending fog and chilly air up to 100 miles inland. This tempers the daytime heat and allows grapes to ripen slowly but fully. Cooler-climate grape varieties thrive closest to the sea, while further inland, bigger, bolder wines prevail.",
-                "image": "https://images-dev.firstleaf.club/taxons/1819/normal/California.png?1616010998"
-            },
             "images": "https://images-dev.firstleaf.club/images/5526/desktop/Winter_Fox_18_Syrah_P2WIN18SYR1021-FLE.png?1632186952",
             "ratings_pct": 4.13,
-            "brand": {
-                "name": "Winter Fox",
-                "sales_copy": "Peer through the trees of North America in midwinter, and if you are lucky you might catch a glimpse of red fur against the white and grey backdrop. That spark of color offers hope that there is life amidst the stark landscape. Winter Fox wines are a pop of color and are lively and delicious. "
-            },
-            "display_name": "Winter Fox",
-            "sku": "KKAIF1235155AD"
+            "display_name": "Winter Fox"
         },
         {
             "id": 6,
@@ -201,8 +111,6 @@
             "slug": "devil-s-advocate-2018-red-blend-california",
             "name": "Devil's Advocate 2018 Red Wine Blend California",
             "tag_line": "An enticing black-fruited blend from Gold Medal-winning Devil’s Advocate",
-            "tasting_notes": "Sweet aromatics of vanilla and a slight chocolate note meld with graphite and cedar. Fruit forward flavors of candied maraschino cherry and black cherry, red plum, and blackberry complement big tannins that grip the palate. Each sip has a delightful texture that will make you go back for glass after glass.",
-            "sales_copy": "\u003cb\u003eAn enticing black-fruited blend from Gold Medal-winning Devil’s Advocate.\u003c/b\u003e It would be challenging to find an objection to Devil’s Advocate’s Red Blend. From the novice to the stickler, this plush and fruity wine is sure to win over anyone who takes a sip. Persuasively plump red and black fruit flavors accompany hints of spice for a compelling combination of varietal flavors and oak influence. Dark-skinned grape varieties thrive in the warmer climates of California. Here, large rocks on the soil’s surface soak up heat from the sun. This means that when cooling delta breezes and chilly nights move in, the grapes can continue to ripen using the stored heat that radiates off the rocks. These conditions are important for thick-skinned grapes that require ample heat to reach peak ripeness levels and velvety tannic textures. Our Red Blend makes a great partner to various dishes ranging from tangy barbecue to cheesy pasta.",
             "vintage": "2018",
             "origin": "California",
             "fanciful_varietal": "Red Wine Blend",
@@ -217,28 +125,9 @@
             },
             "pairings": "Barbecue, Baked Pastas, Grilled Mushrooms",
             "color": "Red",
-            "description": "\u003cp\u003eIt would be challenging to find an objection to Devil’s Advocate’s Red Blend. From the novice to the stickler, this plush and fruity wine is sure to win over anyone who takes a sip. Persuasively plump red and black fruit flavors accompany hints of spice for a compelling combination of varietal flavors and oak influence. Dark-skinned grape varieties thrive in the warmer climates of California. Here, large rocks on the soil’s surface soak up heat from the sun. This means that when cooling delta breezes and chilly nights move in, the grapes can continue to ripen using the stored heat that radiates off the rocks. These conditions are important for thick-skinned grapes that require ample heat to reach peak ripeness levels and velvety tannic textures. Our Red Blend makes a great partner to various dishes ranging from tangy barbecue to cheesy pasta. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "It would be challenging to find an objection to Devil’s Advocate’s Red Blend. From the novice to the stickler, this plush and fruity wine is sure to win over anyone who takes a sip. Persuasively plump red and black fruit flavors accompany hints of spice for a compelling combination of varietal flavors and oak influence. Dark-skinned grape varieties thrive in the warmer climates of California. Here, large rocks on the soil’s surface soak up heat from the sun. This means that when cooling delta breezes and chilly nights move in, the grapes can continue to ripen using the stored heat that radiates off the rocks. These conditions are important for thick-skinned grapes that require ample heat to reach peak ripeness levels and velvety tannic textures. Our Red Blend makes a great partner to various dishes ranging from tangy barbecue to cheesy pasta. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "California",
-                "description": "California is one of the most diverse winegrowing regions in the world. Spanning 850 miles along North America's west coast—and inland across mountains and valleys—California's American Viticultural Areas (AVAs) cover a dizzying array of terroir. The cold, deep waters of the Pacific Ocean play a major role in cooling California's vineyards, sending fog and chilly air up to 100 miles inland. This tempers the daytime heat and allows grapes to ripen slowly but fully. Cooler-climate grape varieties thrive closest to the sea, while further inland, bigger, bolder wines prevail.",
-                "image": "https://images-dev.firstleaf.club/taxons/1819/normal/California.png?1616010998"
-            },
             "images": "https://images-dev.firstleaf.club/images/6196/desktop/Devil's_Advocate_18_Red_Wine_Blend_P2DEV18RBL1021-FLE.png?1639537230",
             "ratings_pct": 4.59,
-            "award_product": [
-                "90 Points, 2021 West Coast Wine Competition",
-                "Gold Medal, 2021 San Francisco Chronicle Wine Competition",
-                "Gold Medal, 2021 West Coast Wine Competition",
-                "Silver Medal, 2021 Winemaker Challenge",
-                "87 Points, 2021 Wine Enthusiast"
-            ],
-            "brand": {
-                "name": "Devil's Advocate",
-                "sales_copy": "Prodding someone to think in a new light; pushing them, and yourself, to have a broader horizon is both the duty and the honor of the Devil's Advocate. Never assuming or settling, our winemaker pushes the status quo into a new realm for those who too have an open mind and are ready to savor."
-            },
-            "display_name": "Devil's Advocate",
-            "sku": "JFI1259ADSE441"
+            "display_name": "Devil's Advocate"
         },
         {
             "id": 7,
@@ -246,8 +135,6 @@
             "slug": "maidens-delight-2020-pinot-grigio-garda-doc-italy",
             "name": "Maiden's Delight 2020 Pinot Grigio Garda DOC, Italy",
             "tag_line": "Charming and fresh with spirited citrus and tingling acidity",
-            "tasting_notes": "Bright citrus aromas of lemon and grapefruit hover above your glass. Mouthwatering acidity complements the slightly tart citrus notes, while a fresh and textural characteristic of wet stone offers intriguing minerality and grounds the palate. Each sip lingers, allowing you a moment of tranquility and grace.",
-            "sales_copy": "\u003cb\u003eCharming and fresh with spirited citrus and tingling acidity.\u003c/b\u003e The newest vintage of our Maiden's Delight Pinot Grigio offers dazzling citrus flavors and lively acidity complemented by refined minerality. Beautifully balanced and approachable, this delightful wine comes from the Lake Garda DOC in northern Italy. Here, vineyards line the bright green hills dotted with olive groves, and single lane roads lined with cypress trees wind through the picturesque landscape. The region's Mediterranean climate provides a long, warm growing season. Chilly winds from off the lake rustle the vine's canopy and provide relief from high temperatures. This allows the Pinot Grigio grapes enough time to ripen and develop rich flavors while retaining their natural acidity. This textural wine is refreshing on its own but also makes a fantastic pair with lighter pasta dishes and creamy cheeses. For ideal enjoyment, serve well chilled on sunlight patios shared with good friends and scenic landscapes.",
             "vintage": "2020",
             "origin": "Garda DOC, Italy",
             "fanciful_varietal": "Pinot Grigio",
@@ -258,32 +145,11 @@
             "award_highlights": {
                 "silver-medal": 1
             },
-            "award_brand": [
-                "Silver Medal, 2020 Dan Berger's International Wine \u0026 Cider Competition",
-                "Silver Medal, 2020 Harvest Challenge",
-                "Silver Medal, 2019 Denver International Wine Competition"
-            ],
             "pairings": "Fresh Fruit, Salty Cheese, Roasted Chicken",
             "color": "White",
-            "description": "\u003cp\u003eThe newest vintage of our Maiden's Delight Pinot Grigio offers dazzling citrus flavors and lively acidity complemented by refined minerality. Beautifully balanced and approachable, this delightful wine comes from the Lake Garda DOC in northern Italy. Here, vineyards line the bright green hills dotted with olive groves, and single lane roads lined with cypress trees wind through the picturesque landscape. The region's Mediterranean climate provides a long, warm growing season. Chilly winds from off the lake rustle the vine's canopy and provide relief from high temperatures. This allows the Pinot Grigio grapes enough time to ripen and develop rich flavors while retaining their natural acidity. This textural wine is refreshing on its own but also makes a fantastic pair with lighter pasta dishes and creamy cheeses. For ideal enjoyment, serve well chilled on sunlight patios shared with good friends and scenic landscapes. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "The newest vintage of our Maiden's Delight Pinot Grigio offers dazzling citrus flavors and lively acidity complemented by refined minerality. Beautifully balanced and approachable, this delightful wine comes from the Lake Garda DOC in northern Italy. Here, vineyards line the bright green hills dotted with olive groves, and single lane roads lined with cypress trees wind through the picturesque landscape. The region's Mediterranean climate provides a long, warm growing season. Chilly winds from off the lake rustle the vine's canopy and provide relief from high temperatures. This allows the Pinot Grigio grapes enough time to ripen and develop rich flavors while retaining their natural acidity. This textural wine is refreshing on its own but also makes a fantastic pair with lighter pasta dishes and creamy cheeses. For ideal enjoyment, serve well chilled on sunlight patios shared with good friends and scenic landscapes. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "Garda DOC",
-                "description": "Nowhere inspires romance quite like Italy's Lake Garda. Its eastern shores merge into the beautifully terraced hillsides of Verona, where vines meet cypress, olive, cherry, and citrus groves. Chardonnay is the most planted variety here, soaking in the warm Mediterranean sun and developing fine acids and aromatics in the cool Alpine air. Garganega (the grape of nearby Soave) also thrives, as does Riesling and northeast Italy's ubiquitous Pinot Grigio. Garda's famous light reds—Valpolicella and Bardolina—are made principally from the local Corvina grape. Other outstanding Garda wines include Cabernet Sauvignon, Cabernet Franc and Merlot. The DOC (Denominazione di Origine Controllata) designation for Italian wines was introduced in the 1960s. It is the main classification system used in the country and regulates what winemakers can and cannot do regarding wine style, varietal restrictions, minimum and maximum alcohol levels, aging techniques and growing regions.",
-                "image": "https://images-dev.firstleaf.club/taxons/3362/normal/Italy_Garda.png?1616010432"
-            },
             "images": "https://images-dev.firstleaf.club/images/5571/desktop/Maiden's_Delight_20_Pinot_Grigio_P2MAI20PNG1021-FLE.png?1632765790",
-            "state_restrictions": [],
             "ratings_pct": 4.28,
-            "award_product": [
-                "Silver Medal, 2022 San Diego International Wine \u0026 Spirits Challenge"
-            ],
-            "brand": {
-                "name": "Maiden's Delight",
-                "sales_copy": "Maiden's Delight wines are all about fresh ideas and fresh flavor. We love the way that these wines introduce us to new grapes made in new styles. "
-            },
-            "display_name": "Maiden's Delight",
-            "sku": "P89JHAOSH123143"
+            "display_name": "Maiden's Delight"
         },
         {
             "id": 8,
@@ -291,8 +157,6 @@
             "slug": "international-press-2020-macabeo-spain",
             "name": "International Press\t2020 Macabeo Spain",
             "tag_line": "Discover delicious new flavors from our Platinum Medal winemakers",
-            "tasting_notes": "Explore our wine’s unique balance of sweet and savory aromatics through enticing scents of candied oranges and tangy parmesan cheese. This wine has a light and cheerful body with restrained acidity, allowing decadent flavors of white fig, melon, and marmalade to take center stage.",
-            "sales_copy": "\u003cb\u003eDiscover delicious new flavors from our Platinum Medal winemakers.\u003c/b\u003e It’s time to dust off the passport because your palate is bound for a European adventure. Macabeo is a well-known grape in Spain but is still somewhat unknown to the rest of the world. This versatile grape is included in some of the most popular wines in its native country, where it is grown in vineyards across the Iberian Peninsula and even goes by several different names. The style of wine this local grape creates varies depending on the climate and winemaking practices of the region where it grows. Our International Press Macabeo is an approachable yet exciting introduction to this foreign varietal. Crafted from the concentrated fruit of old vines, this wine is intriguing and charming with citrus peel and dairy aromas. Flavors of luscious tree fruit on the palate contribute to a sweet finish, making this bottle engaging enough to be enjoyed on its own or alongside traditional Spanish cuisine.",
             "vintage": "2020",
             "origin": "Spain",
             "fanciful_varietal": "Macabeo",
@@ -301,30 +165,11 @@
             "display_msrp": "$26.40",
             "display_price": "$22.00",
             "award_highlights": null,
-            "award_brand": [
-                "Best Buy, 2022 Wine \u0026 Spirits Magazine",
-                "94 Points, 2020 Winemaker Challenge",
-                "91 Points, 2022 Wine \u0026 Spirits Magazine",
-                "Platinum Medal, 2020 Winemaker Challenge",
-                "Silver Medal, 2019 Sommelier Challenge"
-            ],
             "pairings": "Charcuterie, Jamón Ibérico, Figs",
             "color": "White",
-            "description": "\u003cp\u003eIt’s time to dust off the passport because your palate is bound for a European adventure. Macabeo is a well-known grape in Spain but is still somewhat unknown to the rest of the world. This versatile grape is included in some of the most popular wines in its native country, where it is grown in vineyards across the Iberian Peninsula and even goes by several different names. The style of wine this local grape creates varies depending on the climate and winemaking practices of the region where it grows. Our International Press Macabeo is an approachable yet exciting introduction to this foreign varietal. Crafted from the concentrated fruit of old vines, this wine is intriguing and charming with citrus peel and dairy aromas. Flavors of luscious tree fruit on the palate contribute to a sweet finish, making this bottle engaging enough to be enjoyed on its own or alongside traditional Spanish cuisine. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "It’s time to dust off the passport because your palate is bound for a European adventure. Macabeo is a well-known grape in Spain but is still somewhat unknown to the rest of the world. This versatile grape is included in some of the most popular wines in its native country, where it is grown in vineyards across the Iberian Peninsula and even goes by several different names. The style of wine this local grape creates varies depending on the climate and winemaking practices of the region where it grows. Our International Press Macabeo is an approachable yet exciting introduction to this foreign varietal. Crafted from the concentrated fruit of old vines, this wine is intriguing and charming with citrus peel and dairy aromas. Flavors of luscious tree fruit on the palate contribute to a sweet finish, making this bottle engaging enough to be enjoyed on its own or alongside traditional Spanish cuisine. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "Spain",
-                "description": "While its reputation as a serious wine destination was eclipsed by France and Italy for many years, ignoring Spain today means missing out on some of the world's most exciting wines. Enjoying hundreds of miles of sun-kissed coastline and rocky interiors at higher elevations, Spain provides an ideal location for vineyards. Whether it is sparkling cavas from Catalonia, crisp Verdejos from Rueda, sublime Tempranillos from Ribera del Duero or inky Monastrells from Valencia, Spain has many wine styles to explore, all expressing the country's wildly unique terroir.",
-                "image": "https://images-dev.firstleaf.club/taxons/1817/normal/Spain.png?1616010618"
-            },
             "images": "https://images-dev.firstleaf.club/images/5365/desktop/International_Press_20_Macabeo_P2INT20MAC0721-FLE.png?1630609841",
             "ratings_pct": 4.42,
-            "brand": {
-                "name": "International Press",
-                "sales_copy": "The journey begins! Travel the world from the comfort of your home as winemakers from around the globe bring you their country's very best! Each bottle of International Press is a unique cultural artifact, so deeply intertwined with its homeplace, bringing you a true expression of the land. "
-            },
-            "display_name": "International Press",
-            "sku": "P1256ASDG35"
+            "display_name": "International Press"
         },
         {
             "id": 9,
@@ -332,8 +177,6 @@
             "slug": "avro-618-southern-cloud-2021-sauvignon-blanc-semillon-south-australia",
             "name": "Avro 618 2021 Southern Cloud Sauvignon Blanc – Sémillon South Australia",
             "tag_line": "Reach new heights of light fruit flavor",
-            "tasting_notes": "Light and lively, this wine balances ripe citrus flavors and refreshing herbal characteristics. Aromas of freshly cut grass complement flavors of lemon and melon, while mouthwatering acidity introduces invigorating textures amid a sweet palate. Pair this wine with lazy afternoons spent staring at the clouds.",
-            "sales_copy": "\u003cb\u003eReach new heights of light fruit flavor.\u003c/b\u003e Reliable Avro 618 has done it again with this high-flying blend of Sauvignon Blanc and Sémillon, where ripe tropical fruit and uplifting herbal aromatics will keep you refreshed. Like the original carrier plane, this blend has become undeniably Australian. Taking notes from their winemaking colleagues in Bordeaux, winemakers in South Australia have been combining these two intensely fruity grape varieties for decades. Here the climate is hot and dry, which means these light-skinned grapes have to be planted at higher altitudes where they have access to the cooling oceanic breezes. After harvest, our highly awarded Australian winemaking partners blend the two varieties to arrive at the ideal destination of desired fruit flavor and texture. The result is a crisp, food-friendly wine. Serve our 2021 vintage well chilled alongside salty dishes or fresh seafood for a pairing worthy of first class.",
             "vintage": "2021",
             "origin": "South Australia, Australia",
             "fanciful_varietal": "Southern Cloud Sauvignon Blanc – Sémillon",
@@ -347,26 +190,9 @@
             },
             "pairings": "Seafood, Salty Cheese, Fresh Fruit",
             "color": "White",
-            "description": "\u003cp\u003eReliable Avro 618 has done it again with this high-flying blend of Sauvignon Blanc and Sémillon, where ripe tropical fruit and uplifting herbal aromatics will keep you refreshed. Like the original carrier plane, this blend has become undeniably Australian. Taking notes from their winemaking colleagues in Bordeaux, winemakers in South Australia have been combining these two intensely fruity grape varieties for decades. Here the climate is hot and dry, which means these light-skinned grapes have to be planted at higher altitudes where they have access to the cooling oceanic breezes. After harvest, our highly awarded Australian winemaking partners blend the two varieties to arrive at the ideal destination of desired fruit flavor and texture. The result is a crisp, food-friendly wine. Serve our 2021 vintage well chilled alongside salty dishes or fresh seafood for a pairing worthy of first class. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "Reliable Avro 618 has done it again with this high-flying blend of Sauvignon Blanc and Sémillon, where ripe tropical fruit and uplifting herbal aromatics will keep you refreshed. Like the original carrier plane, this blend has become undeniably Australian. Taking notes from their winemaking colleagues in Bordeaux, winemakers in South Australia have been combining these two intensely fruity grape varieties for decades. Here the climate is hot and dry, which means these light-skinned grapes have to be planted at higher altitudes where they have access to the cooling oceanic breezes. After harvest, our highly awarded Australian winemaking partners blend the two varieties to arrive at the ideal destination of desired fruit flavor and texture. The result is a crisp, food-friendly wine. Serve our 2021 vintage well chilled alongside salty dishes or fresh seafood for a pairing worthy of first class. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "South Australia",
-                "description": "From juicy, full-bodied Shiraz and bold Rhône-style blends to deliciously buttery, oak-touched Chardonnay and surprisingly elegant Rieslings, South Australia is renowned for its wide array of crowd-pleasing wines. The key is the state's diverse geography and climate. With hot, dry regions like Riverland and cool, coastal areas like the Adelaide Hills, winemakers have an incredible range of grapes and styles at their disposal. South Australia is responsible for more than half of Australia's total wine production and makes some of the country's most prominent wine labels. It is also home to world-famous regions like Barossa Valley, McLaren Vale and Clare Valley.",
-                "image": "https://images-dev.firstleaf.club/taxons/1938/normal/Australia_South_Australia.png?1616010187"
-            },
             "images": "https://images-dev.firstleaf.club/images/5572/desktop/Avro_618_Southern_Cloud__65__Sauvignon_Blanc__35__Semillon_P2AVR21SBS1021-FLE.png?1632765862",
             "ratings_pct": 4.34,
-            "award_product": [
-                "90 Points, 2022 San Diego International Wine \u0026 Spirits Challenge",
-                "Gold Medal, 2022 San Diego International Wine \u0026 Spirits Challenge"
-            ],
-            "total_parts": 0,
-            "brand": {
-                "name": "Avro 618",
-                "sales_copy": "The Avro 618 “Southern Cloud” was a breakthrough for a sparsely populated continent. The first mail carrier plane was instrumental in developing infrastructure and delivering the mail that was needed to run the country. Like the plane, Avro 618 wines deliver."
-            },
-            "display_name": "Avro 618",
-            "sku": "K00185AJSDJHG"
+            "display_name": "Avro 618"
         },
         {
             "id": 10,
@@ -374,8 +200,6 @@
             "slug": "chanme-mechant-2020-pinot-noir-pays-d-oc-igp-france",
             "name": "Chanmé Méchant 2020 Pinot Noir Pays d'Oc IGP, France",
             "tag_line": "Raise a toast to France’s southern coast",
-            "tasting_notes": "Although it emulates Old World styling, our Pinot Noir is informal and approachable. Aromas of toasty oak evoke that “red Burgundy” feeling before bright red fruit offers a welcome playfulness. Ripe strawberry and pomegranate flavors are enveloped in a textural harmony between body, acidity, and tannin for a balanced mouthfeel.",
-            "sales_copy": "\u003cb\u003eRaise a toast to France’s southern coast.\u003c/b\u003e If when you think Pinot Noir you think of the historic Burgundy region, we understand. However, our Chanmé Méchant's seamlessly integrated red fruit flavors and oak beckon you south, to the shores of the Mediterranean Sea. Here, cooling northern winds allow finicky Pinot Noir to find a perfect balance of ripe fruit flavor without losing its hallmark acidity. Since the beginning of its viticultural history, the Pays d'Oc region has been a hub for exciting experimentation and advancements within the wine world. This is not always common in France, where authorities emphasize terroir, and strict wine laws govern which grape varieties may be planted in each region to ensure its wines are a true reflection of that area. Due to the Pays d'Oc IGP's many soil types and microclimates, 63 varieties are permitted in this region, where other areas may only have 5 or 10. This freedom to explore makes this southern French region a great place to find exciting new wines and a delicious source of high value.",
             "vintage": "2020",
             "origin": "Pays d'Oc IGP, France",
             "fanciful_varietal": "Pinot Noir",
@@ -388,25 +212,9 @@
             },
             "pairings": "Antipasto, Duck Breast, Feta and Spinach Frittata",
             "color": "Red",
-            "description": "\u003cp\u003eIf when you think Pinot Noir you think of the historic Burgundy region, we understand. However, our Chanmé Méchant's seamlessly integrated red fruit flavors and oak beckon you south, to the shores of the Mediterranean Sea. Here, cooling northern winds allow finicky Pinot Noir to find a perfect balance of ripe fruit flavor without losing its hallmark acidity. Since the beginning of its viticultural history, the Pays d'Oc region has been a hub for exciting experimentation and advancements within the wine world. This is not always common in France, where authorities emphasize terroir, and strict wine laws govern which grape varieties may be planted in each region to ensure its wines are a true reflection of that area. Due to the Pays d'Oc IGP's many soil types and microclimates, 63 varieties are permitted in this region, where other areas may only have 5 or 10. This freedom to explore makes this southern French region a great place to find exciting new wines and a delicious source of high value. \u003cb\u003eScroll through the image carousel above to learn more about this wine.\u003c/b\u003e\u003c/p\u003e",
-            "meta_description": "If when you think Pinot Noir you think of the historic Burgundy region, we understand. However, our Chanmé Méchant's seamlessly integrated red fruit flavors and oak beckon you south, to the shores of the Mediterranean Sea. Here, cooling northern winds allow finicky Pinot Noir to find a perfect balance of ripe fruit flavor without losing its hallmark acidity. Since the beginning of its viticultural history, the Pays d'Oc region has been a hub for exciting experimentation and advancements within the wine world. This is not always common in France, where authorities emphasize terroir, and strict wine laws govern which grape varieties may be planted in each region to ensure its wines are a true reflection of that area. Due to the Pays d'Oc IGP's many soil types and microclimates, 63 varieties are permitted in this region, where other areas may only have 5 or 10. This freedom to explore makes this southern French region a great place to find exciting new wines and a delicious source of high value. Scroll through the image carousel above to learn more about this wine.",
-            "region": {
-                "name": "Pays d'Oc IGP",
-                "description": "If you've vacationed in the south of France, you've probably visited the Pays d'Oc region. Embracing the Mediterranean from Spain to Provence, this region is famed as much for its Grenache, Pinot Noir and Chardonnay as its endless sunshine. Pays d'Oc covers non-AOC wines made across this large, sun-kissed region, known as France's \"New World.\" Far from the regulations of the AOC system, pioneering winemakers headed here to experiment, crafting many now-famous wines that often state their grape variety on the label—not something that was common in France before then. IGP (Indication Géographique Protégée) within France’s wine classification system focuses on controlling regional and geographical origin. The category is less restrictive than the AOC classification and gives winemakers more freedom with style and taste profile when creating wines.",
-                "image": "https://images-dev.firstleaf.club/taxons/2634/normal/France_Pays_d'Oc.png?1616010329"
-            },
             "images": "https://images-dev.firstleaf.club/images/5389/desktop/Chanme_Mechant_20_Pinot_Noir_P2CHA20PNN0921-FLE.png?1630611709",
             "ratings_pct": 4.28,
-            "award_product": [
-                "Silver Medal, 2022 International Eastern Wine Competition"
-            ],
-            "total_parts": 0,
-            "brand": {
-                "name": "Chanmé Méchant",
-                "sales_copy": "Yes, the French take their food and wine very seriously, but that does not mean they do not enjoy having a bit of fun. Chanmé Méchant is a playful French \"verlan\" — a word that flip flops its sound to create a phrase that captures opposites. Chanmé meaning enjoyable; Méchant meaning a bit wicked. Together they make for an approachable and informal expression of French varietals."
-            },
-            "display_name": "Chanmé Méchant",
-            "sku": "O8754ASDG13"
+            "display_name": "Chanmé Méchant 2020"
         }
     ]
 }
