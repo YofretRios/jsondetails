@@ -85,7 +85,6 @@
         {
             "id": 5,
             "special_notes": "Award Winning",
-            "slug": "winter-fox-2018-syrah-california",
             "name": "Winter Fox 2018 Syrah California",
             "tag_line": "Delectably red fruited and refreshingly wild",
             "vintage": "2018",
@@ -96,9 +95,6 @@
             "display_msrp": "$19.80",
             "display_price": "$18.00",
             "award_highlights": null,
-            "award_brand": [
-                "Gold Medal, 2019 Denver International Wine Competition"
-            ],
             "pairings": "Roasted Vegetables, Wild Game, Grilled Meats",
             "color": "Red",
             "images": "https://images-dev.firstleaf.club/images/5526/desktop/Winter_Fox_18_Syrah_P2WIN18SYR1021-FLE.png?1632186952",
@@ -108,7 +104,6 @@
         {
             "id": 6,
             "special_notes": "Award Winning",
-            "slug": "devil-s-advocate-2018-red-blend-california",
             "name": "Devil's Advocate 2018 Red Wine Blend California",
             "tag_line": "An enticing black-fruited blend from Gold Medal-winning Devil’s Advocate",
             "vintage": "2018",
@@ -132,7 +127,6 @@
         {
             "id": 7,
             "special_notes": "Award Winning",
-            "slug": "maidens-delight-2020-pinot-grigio-garda-doc-italy",
             "name": "Maiden's Delight 2020 Pinot Grigio Garda DOC, Italy",
             "tag_line": "Charming and fresh with spirited citrus and tingling acidity",
             "vintage": "2020",
@@ -154,7 +148,6 @@
         {
             "id": 8,
             "special_notes": "None",
-            "slug": "international-press-2020-macabeo-spain",
             "name": "International Press\t2020 Macabeo Spain",
             "tag_line": "Discover delicious new flavors from our Platinum Medal winemakers",
             "vintage": "2020",
@@ -174,7 +167,6 @@
         {
             "id": 9,
             "special_notes": "Award Winning",
-            "slug": "avro-618-southern-cloud-2021-sauvignon-blanc-semillon-south-australia",
             "name": "Avro 618 2021 Southern Cloud Sauvignon Blanc – Sémillon South Australia",
             "tag_line": "Reach new heights of light fruit flavor",
             "vintage": "2021",
@@ -197,7 +189,6 @@
         {
             "id": 10,
             "special_notes": "Award Winning",
-            "slug": "chanme-mechant-2020-pinot-noir-pays-d-oc-igp-france",
             "name": "Chanmé Méchant 2020 Pinot Noir Pays d'Oc IGP, France",
             "tag_line": "Raise a toast to France’s southern coast",
             "vintage": "2020",
